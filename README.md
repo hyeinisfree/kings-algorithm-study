@@ -72,4 +72,3 @@
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
 |:-:|:-:|:-:|:-:|:-:|
 | [imim-seung](https://github.com/imim-seung) | [hyeinisfree](https://github.com/hyeinisfree) | [milsakim](https://github.com/milsakim) | [chaewss](https://github.com/chaewss) | [sio2whocodes](https://github.com/sio2whocodes) |
-<br>
