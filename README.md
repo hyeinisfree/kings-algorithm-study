@@ -59,14 +59,14 @@
 - sujeong/폴더명/문제명.py
 
 ## 일정표
+
 #### 1차 : 프로그래머스 Level 1, 2
 | **주차** | **폴더명** | **문제 1** | **문제 2** | **문제 3** | **문제 4** | **문제 5** |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1주차 | week1 | | | | | |
-| 2주차 | week2 | | | | | |
-| 3주차 | week3 | | | | | |
-| 4주차 | week4 | | | | | |
-
+| 1주차 | week1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) |
+| 2주차 | week2 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |
+| 3주차 | week3 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) |
+| 4주차 | week4 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
