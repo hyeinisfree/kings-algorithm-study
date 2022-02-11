@@ -23,13 +23,13 @@ func solution(_ sizes:[[Int]]) -> Int {
 // 개선 풀이1
 func solution2(_ sizes:[[Int]]) -> Int {
     
-    let maxOfMaxLength: Int = sizes.map{ max($0[0], $0[1]) }.max() ?? 0
-    let maxOfMinLength: Int = sizes.map{ min($0[0], $0[1]) }.max() ?? 0
+    let maxOfMaxLength: Int = sizes.map{ $0.max() ?? 0 }.max() ?? 0
+    let maxOfMinLength: Int = sizes.map{ $0.min() ?? 0 }.max() ?? 0
     
     return maxOfMaxLength * maxOfMinLength
 }
 
 // 간략 코드
 func solution3(_ sizes:[[Int]]) -> Int {
-    return (sizes.map{ max($0[0], $0[1]) }.max() ?? 0) * (sizes.map{ min($0[0], $0[1]) }.max() ?? 0)
+    return (sizes.map{ $0.max() ?? 0 }.max() ?? 0) * (sizes.map{ $0.min() ?? 0 }.max() ?? 0)
 }
