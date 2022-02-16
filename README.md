@@ -72,7 +72,7 @@
 |  | week2 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | 김혜인 | |
 |  | week2 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 김혜지 | |
 |  | week2 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | 김승미 | |
-|  | week2 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |  | |
+|  | week2 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | 서채원 | |
 | 3주차 | week3 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | | |
 |  | week3 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | | |
 |  | week3 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | | |
