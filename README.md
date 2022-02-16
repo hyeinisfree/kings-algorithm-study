@@ -63,16 +63,16 @@
 #### 1차 : 프로그래머스 Level 1, 2
 | **주차** | **폴더명** | **문제** | **담당자** | **진행현황** |
 |:-:|:-:|:-:|:-:|:-:|
-| 1주차 | week1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 김혜지 | |
-|  | week1 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 김혜인 | |
-|  | week1 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | 임수정 | |
-|  | week1 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 서채원 | |
-|  | week1 | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | 김승미 | |
-| 2주차 | week2 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | | |
-|  | week2 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | | |
-|  | week2 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | | |
-|  | week2 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | | |
-|  | week2 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | | |
+| 1주차 | week1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 김혜지 |`진행완료`|
+|  | week1 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 김혜인 |`진행완료`|
+|  | week1 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | 임수정 |`진행완료`|
+|  | week1 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 서채원 |`진행완료`|
+|  | week1 | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | 김승미 |`진행완료`|
+| 2주차 | week2 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | 임수정 | |
+|  | week2 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | 김혜인 | |
+|  | week2 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 김혜지 | |
+|  | week2 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | 김승미 | |
+|  | week2 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |  | |
 | 3주차 | week3 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | | |
 |  | week3 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | | |
 |  | week3 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | | |
