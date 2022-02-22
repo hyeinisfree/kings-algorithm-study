@@ -68,16 +68,16 @@
 |  | week1 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | 임수정 |`진행완료`|
 |  | week1 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 서채원 |`진행완료`|
 |  | week1 | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | 김승미 |`진행완료`|
-| 2주차 | week2 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | 임수정 | |
-|  | week2 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | 김혜인 | |
-|  | week2 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 김혜지 | |
-|  | week2 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | 김승미 | |
-|  | week2 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | 서채원 | |
-| 3주차 | week3 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | | |
-|  | week3 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | | |
-|  | week3 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | | |
-|  | week3 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |  | |
-|  | week3 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | | |
+| 2주차 | week2 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | 임수정 | `진행완료` |
+|  | week2 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | 김혜인 | `진행완료` |
+|  | week2 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 김혜지 | `진행완료` |
+|  | week2 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | 김승미 | `진행완료` |
+|  | week2 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | 서채원 | `진행완료` |
+| 3주차 | week3 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | 김혜인 | |
+|  | week3 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | 김승미 | |
+|  | week3 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 임수정 | |
+|  | week3 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 김혜지 | |
+|  | week3 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | 서채원 | |
 | 4주차 | week4 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) |  | |
 |  | week4 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |  | |
 |  | week4 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) |  | |
