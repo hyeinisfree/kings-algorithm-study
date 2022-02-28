@@ -1,6 +1,6 @@
 import Foundation
 
-func doWorkForADay(_ works: inout [Int], _ speeds: [Int]) {
+func makeProgressOfADay(_ works: inout [Int], _ speeds: [Int]) {
     for (index, value) in works.enumerated() {
         if value >= 100 {
             continue
@@ -9,6 +9,22 @@ func doWorkForADay(_ works: inout [Int], _ speeds: [Int]) {
             works[index] = value + speeds[index]
         }
     }
+}
+
+func checkReleasing(_ works: inout [Int], _ speeds: inout [Int]) -> Int {
+    var releaseCount: Int = 0
+    
+    for work in works {
+        if work < 100 {
+            break
+        }
+        
+        works.removeFirst()
+        speeds.removeFirst()
+        releaseCount += 1
+    }
+    
+    return releaseCount
 }
 
 func solution(_ progresses:[Int], _ speeds:[Int]) -> [Int] {
@@ -23,21 +39,33 @@ func solution(_ progresses:[Int], _ speeds:[Int]) -> [Int] {
     // 작업의 최대 수: 100, 작업 진도 최소: 1, 작업 속도 최소: 1
     // 100일 * (100번 작업 진도 올리는 연산 + 1번 배포 확인 연산) -> 1초 안에 푸는거 가능
     while !works.isEmpty {
-        doWorkForADay(&works, _speeds)
+        makeProgressOfADay(&works, _speeds)
         
-        var releaseCount: Int = 0
-        
-        for (index, work) in works.enumerated() {
-            if work < 100 {
-                break
-            }
-            works.removeFirst()
-            _speeds.removeFirst()
-            releaseCount += 1
-        }
+        let releaseCount = checkReleasing(&works, &_speeds)
         
         if releaseCount != 0 {
-          releaseSchedule.append(releaseCount)  
+          releaseSchedule.append(releaseCount)
+        }
+    }
+    
+    return releaseSchedule
+}
+
+func solution2(_ progresses:[Int], _ speeds:[Int]) -> [Int] {
+    var releaseSchedule: [Int] = []
+    var maxNeededDays: Int = 0
+    
+    for index in 0..<progresses.count {
+        let progress: Double = Double(progresses[index])
+        let speed: Double = Double(speeds[index])
+        let neededDays: Int = Int(ceil((100 - progress) / speed))
+        
+        if neededDays > maxNeededDays {
+            maxNeededDays = neededDays
+            releaseSchedule.append(1)
+        }
+        else {
+            releaseSchedule[releaseSchedule.count - 1] += 1
         }
     }
     
