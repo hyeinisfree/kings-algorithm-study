@@ -9,18 +9,15 @@ func solution(_ s:String) -> Int {
     
     for start in 0..<n {
         var isRightStr:Bool = true
-        
         var stack:[Character] = []
         var index:Int = start
         repeat {
-            if sArray[index] == "(" || sArray[index] == "{" || sArray[index] == "[" {
-                stack.append(sArray[index])
-            } else {
-                if stack.last == bracketMap[sArray[index]] {
-                    stack.removeLast()
-                } else {
+            let currentChar:Character = sArray[index]
+            if currentChar == "(" || currentChar == "{" || currentChar == "[" {
+                stack.append(currentChar)
+            } else if stack.isEmpty || stack.removeLast() != bracketMap[currentChar] {
                     isRightStr = false
-                }
+                    break
             }
             index = (index+1) % n
         } while index != start
