@@ -1,31 +1,26 @@
 def solution(rows, columns, queries):
     answer = []
-
-    board = [[i+j*columns for i in range(1,columns+1)] for j in range(rows)]
+    matrix = [[row * columns + col + 1 for col in range(columns)] for row in range(rows)]
 
     for a,b,c,d in queries:
-        stack = []
         r1, c1, r2, c2 = a-1, b-1, c-1, d-1
+        tmp = matrix[r1][c1]
+        min_value = tmp
 
-        for i in range(c1, c2+1):
-            stack.append(board[r1][i])
-            if len(stack) == 1:
-                continue
-            else:
-                board[r1][i] = stack[-2]
+        for y in range(r1, r2):
+            matrix[y][c1] = matrix[y+1][c1]
+            min_value = min(min_value, matrix[y+1][c1])
+        for x in range(c1, c2):
+            matrix[r2][x] = matrix[r2][x+1]
+            min_value = min(min_value, matrix[r2][x+1])
+        for y in range(r2, r1, -1):
+            matrix[y][c2] = matrix[y-1][c2]
+            min_value = min(min_value, matrix[y-1][c2])
+        for x in range(c2, c1, -1):
+            matrix[r1][x] = matrix[r1][x-1]
+            min_value = min(min_value, matrix[r1][x-1])
 
-        for j in range(r1+1, r2+1):
-            stack.append(board[j][i])
-            board[j][i] = stack[-2]
-
-        for k in range(c2-1, c1-1, -1):
-            stack.append(board[j][k])
-            board[j][k] = stack[-2]
-
-        for l in range(r2-1, r1-1, -1):
-            stack.append(board[l][k])
-            board[l][k] = stack[-2]
-
-        answer.append(min(stack))
-
+        matrix[r1][c1+1] = tmp
+        answer.append(min_value)
+        
     return answer

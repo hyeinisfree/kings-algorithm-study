@@ -14,3 +14,5 @@ def solution(name):
         move = min(move, idx + n - next_idx + distance)
 
     return answer + move
+
+solution("JABAAAAAABCAAA")
