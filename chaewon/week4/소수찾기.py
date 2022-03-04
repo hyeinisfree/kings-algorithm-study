@@ -1,7 +1,7 @@
 import itertools
 import math
 
-def isPrime(num):
+def is_prime(num):
     for i in range(2, int(math.sqrt(num)) + 1):
         if num % i == 0:
             return False
@@ -19,7 +19,7 @@ def solution(numbers):
     for num in nums:
         if num < 2:
             continue
-        if isPrime(num):
+        if is_prime(num):
             answer.append(num)
 
     return len(set(answer))
