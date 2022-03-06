@@ -32,17 +32,12 @@ func dfs(_ result:Int, _ cnt:Int, _ len:Int){
         }
     }
 }
-
 func solution(_ numbers:String) -> Int {
     numberArray = Array(numbers).map { $0.wholeNumberValue ?? 0 }
     n = numberArray.count
     
     for len in 1...n {
-        for start in 0..<n {
-            visit[start] = true
-            dfs(numberArray[start], 1, len)
-            visit[start] = false
-        }
+        dfs(0, 0, len)
     }
 
     return resultSet.count
