@@ -52,7 +52,7 @@ def solution2(grid):
 
 def dfs(x, y, d, grid):
     visited[x][y][d] = True
-    nx, ny, nd = x, y, d``
+    nx, ny, nd = x, y, d
     cnt = 0
     while True:
         nx = (nx + dx[nd]) % len(grid)
@@ -69,5 +69,3 @@ def dfs(x, y, d, grid):
             else:
                 return 0
         visited[nx][ny][nd] = True
-
-print(solution2(["SL","LR"]))
