@@ -8,8 +8,8 @@ func solution(_ w:Int, _ h:Int) -> Int64 {
         let leftYValue: Double = Double(h) * Double(column) / Double(w) 
         let rightYValue: Double = Double(h) * Double(column + 1) / Double(w) 
 
-        let startRow: Int = floor(leftYValue) == leftYValue ? Int(leftYValue) : Int(floor(leftYValue))
-        let endRow: Int = ceil(rightYValue) == rightYValue ? Int(rightYValue) : Int(ceil(rightYValue))
+        let startRow: Int = Int(floor(leftYValue))
+        let endRow: Int = Int(ceil(rightYValue))
 
         splitCount += endRow - startRow
     }
