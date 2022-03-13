@@ -44,11 +44,6 @@ func getMinutesOfUse(_ records:[String]) -> [String:Int] {
     return minOfUse
 }
 
-func getMinutesOf(_ time:String) -> Int {
-    let hourMin:[Int] = time.components(separatedBy:":").map{ Int($0) ?? 0 }
-    return hourMin[0]*60 + hourMin[1]
-}
-
 func getExpenses(_ minOfUse:[String:Int], _ fees:[Int]) -> [String:Int] {
     return minOfUse.mapValues {
         if $0 <= fees[0] {
@@ -57,4 +52,9 @@ func getExpenses(_ minOfUse:[String:Int], _ fees:[Int]) -> [String:Int] {
             return fees[1] + Int(ceil(Double($0 - fees[0])/Double(fees[2])))*fees[3]
         }
     }
+}
+
+func getMinutesOf(_ time:String) -> Int {
+    let hourMin:[Int] = time.components(separatedBy:":").compactMap{ Int($0) }
+    return hourMin[0]*60 + hourMin[1]
 }

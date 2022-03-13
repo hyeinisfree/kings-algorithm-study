@@ -23,5 +23,5 @@ func solution(_ id_list:[String], _ report:[String], _ k:Int) -> [Int] {
         }
     }
     
-    return id_list.map { numsOfSendingMail[$0]! }
+    return id_list.compactMap { numsOfSendingMail[$0] }
 }
