@@ -83,11 +83,16 @@
 |  | week4 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | 김혜지 | `진행완료` |
 |  | week4 | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | 김혜인 | `진행완료` |
 |  | week4 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 서채원 | `진행완료` |
-| 5주차 | kakao2022 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | 김혜지 |
-|  | kakao2022 | [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | 김승미 |
-|  | kakao2022 | [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) | 서채원 |
-|  | kakao2022 | [양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342) | 임수정 |
-|  | kakao2022 | [파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344) | 김혜인 |
+| 5주차 | kakao2022 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | 김혜지 | `진행완료` |
+|  | kakao2022 | [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | 김승미 | `진행완료` |
+|  | kakao2022 | [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) | 서채원 | `진행완료` |
+|  | kakao2022 | [양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342) | 임수정 | `진행완료` |
+|  | kakao2022 | [파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344) | 김혜인 | `진행완료` |
+| 6주차 | kakao2021 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | 김승미 |
+|  | kakao2021 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | 임수정 |
+|  | kakao2021 | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | 서채원 |
+|  | kakao2021 | [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | 김혜인 |
+|  | kakao2021 | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | 김혜지 |
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
