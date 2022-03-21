@@ -7,7 +7,7 @@ func solution(_ n:Int, _ s:Int, _ a:Int, _ b:Int, _ fares:[[Int]]) -> Int {
     
     initAdjMatrix(n, fares)
     
-    dijkstra(n)
+    floyd(n)
         
     let result = getMinFare(n,s,a,b)
     
@@ -28,7 +28,7 @@ func initAdjMatrix(_ n:Int, _ fares:[[Int]]) {
     }
 }
 
-func dijkstra(_ n:Int){
+func floyd(_ n:Int){
     for i in 1...n {
         for r in 1...n {
             for c in 1...n {

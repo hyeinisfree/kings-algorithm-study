@@ -2,11 +2,6 @@ import Foundation
 
 var timeline:[Double] = []
 func solution(_ play_time:String, _ adv_time:String, _ logs:[String]) -> String {
-    
-    if play_time == adv_time {
-        return "00:00:00"
-    }
-    
     let play_time_sec = getSecondsOf(play_time)
     
     timeline = Array(repeating: 0, count:play_time_sec+1)
@@ -31,16 +26,17 @@ func solution(_ play_time:String, _ adv_time:String, _ logs:[String]) -> String 
     
     var startSecond = 0
     
-    for i in adv_time_sec..<play_time_sec {
+    if play_time_sec > adv_time_sec {
+        for s in 1...(play_time_sec-adv_time_sec) {
+            let end = s+adv_time_sec-1
+            sumOfPlay = sumOfPlay - timeline[s-1] + timeline[end]
 
-        sumOfPlay += timeline[i] - timeline[i - adv_time_sec]
-        
-        if maxSumOfPlay < sumOfPlay {
-            maxSumOfPlay = sumOfPlay
-            startSecond = i - adv_time_sec + 1
+            if maxSumOfPlay < sumOfPlay {
+                maxSumOfPlay = sumOfPlay
+                startSecond = s
+            }
         }
     }
-    
     
     let result:String = getTimeStringOf(startSecond)
     return result
