@@ -13,7 +13,7 @@ def solution(play_time, adv_time, logs):
         
     for i in range(1, play_time_sec):
         total_time[i] += total_time[i-1]
-    
+    print(total_time)
     crnt_sum = sum(total_time[:adv_time_sec])
     max_sum = crnt_sum
     max_idx = 0
