@@ -43,21 +43,4 @@ func divide(_ w:[Character]) -> ([Character], [Character]) {
 
 func isCorrect(_ u:[Character]) -> Bool {
     return u.first == "("
-//     var stack:Int = 0
-//     for ch in u {
-//         if ch == "(" {
-//             stack += 1
-//         } else {
-//             stack -= 1
-//             if stack < 0 {
-//                 return false
-//             }
-//         }
-//     }
-    
-//     if stack == 0 {
-//         return true
-//     } else {
-//         return false
-//     }
 }
