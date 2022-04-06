@@ -100,9 +100,9 @@
 |  | kakao2020 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | 김승미 | `진행완료` |
 |  | kakao2020 | [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | 임수정 | `진행완료` |
 |  | kakao2020 | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | 김혜지 | `진행완료` |
-| 8주차 | dfs/bfs | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |  | `진행완료` |
-|  | dfs/bfs | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) |  | `진행완료` |
-|  | dfs/bfs | [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164) |  | `진행완료` |
+| 8주차 | dfs/bfs | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |  | 
+|  | dfs/bfs | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) |  | 
+|  | dfs/bfs | [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164) |  | 
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
