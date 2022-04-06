@@ -93,11 +93,11 @@
 |  | kakao2021 | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | 서채원 | `진행완료` |
 |  | kakao2021 | [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | 김혜인 | `진행완료` |
 |  | kakao2021 | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | 김혜지 | `진행완료` |
-| 7주차 | kakao2020 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | 김혜인 |
-|  | kakao2020 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | 서채원 |
-|  | kakao2020 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | 김승미 |
-|  | kakao2020 | [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | 임수정 |
-|  | kakao2020 | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | 김혜지 | 
+| 7주차 | kakao2020 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | 김혜인 | `진행완료` |
+|  | kakao2020 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | 서채원 | `진행완료` |
+|  | kakao2020 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | 김승미 | `진행완료` |
+|  | kakao2020 | [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | 임수정 | `진행완료` |
+|  | kakao2020 | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | 김혜지 | `진행완료` |
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
