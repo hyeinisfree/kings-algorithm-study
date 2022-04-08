@@ -61,6 +61,8 @@
 ## 일정표
 
 #### 1차 : 프로그래머스 Level 1, 2
+#### 2차 : KAKAO 블라인드 채용 코딩테스트
+#### 3차 : 프로그래머스 고득점 Kit (3차부터 풀이 및 코드리뷰만 진행. 설명X)
 | **주차** | **폴더명** | **문제** | **담당자** | **진행현황** |
 |:-:|:-:|:-:|:-:|:-:|
 | 1주차 | week1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 김혜지 |`진행완료`|
@@ -93,11 +95,14 @@
 |  | kakao2021 | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | 서채원 | `진행완료` |
 |  | kakao2021 | [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | 김혜인 | `진행완료` |
 |  | kakao2021 | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | 김혜지 | `진행완료` |
-| 7주차 | kakao2020 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | 김혜인 |
-|  | kakao2020 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | 서채원 |
-|  | kakao2020 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | 김승미 |
-|  | kakao2020 | [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | 임수정 |
-|  | kakao2020 | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | 김혜지 | 
+| 7주차 | kakao2020 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | 김혜인 | `진행완료` |
+|  | kakao2020 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | 서채원 | `진행완료` |
+|  | kakao2020 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | 김승미 | `진행완료` |
+|  | kakao2020 | [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | 임수정 | `진행완료` |
+|  | kakao2020 | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | 김혜지 | `진행완료` |
+| 8주차 | dfs/bfs | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |  | 
+|  | dfs/bfs | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) |  | 
+|  | dfs/bfs | [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164) |  | 
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
