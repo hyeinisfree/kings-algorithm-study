@@ -103,9 +103,12 @@
 | 8주차 | week8 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |  | `진행완료` |
 |  | week8 | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) |  | `진행완료` |
 |  | week8 | [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164) |  | `진행완료` |
-| 9주차 | week9 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |  | 
-|  | week9 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |  | 
-|  | week9 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |  | 
+| 9주차 | week9 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | `진행완료` | 
+|  | week9 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | `진행완료` | 
+|  | week9 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | `진행완료` | 
+| 10주차 | week10 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | `진행완료` | 
+|  | week10 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | `진행완료` | 
+|  | week10 | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | `진행완료` |
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
