@@ -61,12 +61,54 @@
 ## 일정표
 
 #### 1차 : 프로그래머스 Level 1, 2
-| **주차** | **폴더명** | **문제 1** | **문제 2** | **문제 3** | **문제 4** | **문제 5** |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1주차 | week1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) |
-| 2주차 | week2 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |
-| 3주차 | week3 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) |
-| 4주차 | week4 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |
+#### 2차 : KAKAO 블라인드 채용 코딩테스트
+#### 3차 : 프로그래머스 고득점 Kit (3차부터 풀이 및 코드리뷰만 진행. 설명X)
+| **주차** | **폴더명** | **문제** | **담당자** | **진행현황** |
+|:-:|:-:|:-:|:-:|:-:|
+| 1주차 | week1 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 김혜지 |`진행완료`|
+|  | week1 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) | 김혜인 |`진행완료`|
+|  | week1 | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | 임수정 |`진행완료`|
+|  | week1 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | 서채원 |`진행완료`|
+|  | week1 | [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491) | 김승미 |`진행완료`|
+| 2주차 | week2 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | 임수정 | `진행완료` |
+|  | week2 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | 김혜인 | `진행완료` |
+|  | week2 | [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) | 김혜지 | `진행완료` |
+|  | week2 | [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) | 김승미 | `진행완료` |
+|  | week2 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | 서채원 | `진행완료` |
+| 3주차 | week3 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | 김혜인 | `진행완료` |
+|  | week3 | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | 김승미 | `진행완료` |
+|  | week3 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | 임수정 | `진행완료` |
+|  | week3 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | 김혜지 | `진행완료` |
+|  | week3 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | 서채원 | `진행완료` |
+| 4주차 | week4 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 김승미 | `진행완료` |
+|  | week4 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | 임수정 | `진행완료` |
+|  | week4 | [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | 김혜지 | `진행완료` |
+|  | week4 | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | 김혜인 | `진행완료` |
+|  | week4 | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 서채원 | `진행완료` |
+| 5주차 | kakao2022 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | 김혜지 | `진행완료` |
+|  | kakao2022 | [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | 김승미 | `진행완료` |
+|  | kakao2022 | [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) | 서채원 | `진행완료` |
+|  | kakao2022 | [양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342) | 임수정 | `진행완료` |
+|  | kakao2022 | [파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344) | 김혜인 | `진행완료` |
+| 6주차 | kakao2021 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | 김승미 | `진행완료` |
+|  | kakao2021 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | 임수정 | `진행완료` |
+|  | kakao2021 | [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | 서채원 | `진행완료` |
+|  | kakao2021 | [광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414) | 김혜인 | `진행완료` |
+|  | kakao2021 | [카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415) | 김혜지 | `진행완료` |
+| 7주차 | kakao2020 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | 김혜인 | `진행완료` |
+|  | kakao2020 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | 서채원 | `진행완료` |
+|  | kakao2020 | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | 김승미 | `진행완료` |
+|  | kakao2020 | [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | 임수정 | `진행완료` |
+|  | kakao2020 | [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | 김혜지 | `진행완료` |
+| 8주차 | week8 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |  | `진행완료` |
+|  | week8 | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) |  | `진행완료` |
+|  | week8 | [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164) |  | `진행완료` |
+| 9주차 | week9 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | `진행완료` | 
+|  | week9 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | `진행완료` | 
+|  | week9 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | `진행완료` | 
+| 10주차 | week10 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | `진행완료` | 
+|  | week10 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | `진행완료` | 
+|  | week10 | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) | `진행완료` |
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
