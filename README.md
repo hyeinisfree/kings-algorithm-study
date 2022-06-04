@@ -119,6 +119,9 @@
 |  | week13 | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) |  | `진행완료` |
 | 14주차 | week14 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |  | `진행완료` | 
 |  | week14 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |  | `진행완료` | 
+| 15주차 | week15 | [피보나치 함수](https://www.acmicpc.net/problem/1003) |  |  | 
+|  | week15 | [유기농 배추](https://www.acmicpc.net/problem/1012) |  |  |
+|  | week15 | [Z](https://www.acmicpc.net/problem/1074) |  |  |
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
