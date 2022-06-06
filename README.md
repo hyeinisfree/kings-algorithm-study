@@ -103,9 +103,25 @@
 | 8주차 | week8 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |  | `진행완료` |
 |  | week8 | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) |  | `진행완료` |
 |  | week8 | [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164) |  | `진행완료` |
-| 9주차 | week9 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |  | 
-|  | week9 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |  | 
-|  | week9 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |  | 
+| 9주차 | week9 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) |  | `진행완료` | 
+|  | week9 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |  | `진행완료` | 
+|  | week9 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |  | `진행완료` | 
+| 10주차 | week10 | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) |  | `진행완료` | 
+|  | week10 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) |  | `진행완료` | 
+|  | week10 | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |  | `진행완료` |
+| 11주차 | week11 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) |  | `진행완료` | 
+|  | week11 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) |  | `진행완료` | 
+| 12주차 | week12 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |  | `진행완료` | 
+|  | week12 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) |  | `진행완료` | 
+|  | week12 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) |  | `진행완료` |
+| 13주차 | week13 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |  | `진행완료` | 
+|  | week13 | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) |  | `진행완료` | 
+|  | week13 | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) |  | `진행완료` |
+| 14주차 | week14 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) |  | `진행완료` | 
+|  | week14 | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) |  | `진행완료` | 
+| 15주차 | week15 | [피보나치 함수](https://www.acmicpc.net/problem/1003) |  |  | 
+|  | week15 | [유기농 배추](https://www.acmicpc.net/problem/1012) |  |  |
+|  | week15 | [Z](https://www.acmicpc.net/problem/1074) |  |  |
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
