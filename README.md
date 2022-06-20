@@ -125,6 +125,9 @@
 | 16주차 | week16 | [리모컨](https://www.acmicpc.net/problem/1107) |  | `진행완료` | 
 |  | week16 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |  | `진행완료` |
 |  | week16 | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) |  | `진행완료` |
+| 17주차 | week17 | [1로 만들기](https://www.acmicpc.net/problem/1463) |  | `진행완료` | 
+|  | week17 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) |  | `진행완료` |
+|  | week17 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |  | `진행완료` |
 
 ## 스터디원
 | 김승미 | 김혜인 | 김혜지 | 서채원 | 임수정 |
